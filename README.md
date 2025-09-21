@@ -1,2 +1,2 @@
 # delta-demo
-Hello friends
+Hello friends.
